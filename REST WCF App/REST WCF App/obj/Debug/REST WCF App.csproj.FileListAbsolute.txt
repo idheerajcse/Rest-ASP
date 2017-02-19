@@ -1,0 +1,6 @@
+B:\MvcProjectsDemos\WcfTuts\REST WCF App\REST WCF App\bin\REST WCF App.dll.config
+B:\MvcProjectsDemos\WcfTuts\REST WCF App\REST WCF App\bin\REST WCF App.dll
+B:\MvcProjectsDemos\WcfTuts\REST WCF App\REST WCF App\bin\REST WCF App.pdb
+B:\MvcProjectsDemos\WcfTuts\REST WCF App\REST WCF App\obj\Debug\REST WCF App.csprojResolveAssemblyReference.cache
+B:\MvcProjectsDemos\WcfTuts\REST WCF App\REST WCF App\obj\Debug\REST WCF App.dll
+B:\MvcProjectsDemos\WcfTuts\REST WCF App\REST WCF App\obj\Debug\REST WCF App.pdb
